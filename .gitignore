@@ -1,0 +1,17 @@
+/UTXOPool.class
+/Block.class
+/BlockChain$BlockNode.class
+/BlockChain.class
+/BlockHandler.class
+/ByteArrayWrapper.class
+/Transaction$Input.class
+/Transaction$Output.class
+/Transaction.class
+/TransactionPool.class
+/UTXO.class
+/Test.class
+/TxHandler$HeuristicSearch.class
+/TxHandler$TxHandlerState.class
+/TxHandler$TxSearch.class
+/TxHandler$TxWrapper.class
+/TxHandler.class
